@@ -1,0 +1,27 @@
+
+.container1 {
+  display: flex;
+
+}
+.card {
+  height: 50rem;
+  width: 30rem;
+  margin: 30px 30px 30px 30px;
+}
+.buttons {
+  justify-content: center;
+}
+.profile {
+  width: 100%;
+  align-items: flex-end;
+  margin: 30px 30px 30px 30px;
+}
+.container2 {
+  display: flex;
+}
+#linksTable {
+  height: 20rem;
+}
+#progressTable {
+  height: 30rem;
+}
